@@ -1,0 +1,6 @@
+liip_imagine:
+    filter_sets:
+        thumb_50x50:
+            quality: 100
+            filters:
+                thumbnail: { size: [100, 100], mode: outbound, allow_upscale: true }
